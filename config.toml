@@ -1,5 +1,189 @@
 baseURL = 'https://b1617.github.io/'
+title = "Blog"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+paginate = 5
 theme = "PaperMod"
 publishDir = "docs"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+[minify]
+disableXML = true
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "Archive"
+url = "archives"
+weight = 5
+
+[[languages.en.menu.main]]
+name = "Search"
+url = "search/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Categories"
+url = "categories/"
+weight = 10
+
+[languages.fr]
+languageName = ":fr:"
+languageAltTitle = "French"
+weight = 2
+title = "PaperModL2"
+
+  [languages.fr.profileMode]
+  enabled = true
+  title = "PaperMod"
+  subtitle = "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+
+    [[languages.fr.profileMode.buttons]]
+    name = "Blog"
+    url = "posts"
+
+    [[languages.fr.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
+[[languages.fr.menu.main]]
+name = "Archive"
+url = "archives/"
+weight = 5
+
+[[languages.fr.menu.main]]
+name = "Tags"
+url = "tags"
+weight = 10
+
+[[languages.fr.menu.main]]
+name = "Categories"
+url = "categories"
+weight = 10
+
+[[languages.fr.menu.main]]
+name = "Series"
+url = "series"
+weight = 10
+
+[[languages.fr.menu.main]]
+name = "NullLink"
+url = "#"
+
+[[languages.fr.menu.main]]
+name = "NullLink2"
+url = "#"
+
+[[languages.fr.menu.main]]
+name = "NullLink3"
+url = "#"
+
+[languages.fa]
+languagedirection = "rtl"
+weight = 3
+title = "PaperMod RTL"
+
+  [languages.fa.homeInfoParams]
+  Title = "Hi there 👋"
+  Content = "Welcome to RTL layout"
+
+[[languages.fa.menu.main]]
+name = "Tags"
+url = "tags"
+weight = 10
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+env = "production"
+description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+author = "Theme PaperMod"
+defaultTheme = "auto"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+images = [ "papermod-cover.png" ]
+
+  [params.profileMode]
+  enabled = false
+  title = "PaperMod"
+  imageUrl = "#"
+  imageTitle = "my image"
+
+    [[params.profileMode.buttons]]
+    name = "Archives"
+    url = "archives"
+
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
+  [params.homeInfoParams]
+  Title = "PaperMod"
+  Content = """
+Welcome to demo of hugo's theme PaperMod. - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX. - Do give a 🌟 on Github ! - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+"""
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/adityatelange/hugo-PaperMod"
+
+  [[params.socialIcons]]
+  name = "KoFi"
+  url = "https://ko-fi.com/adityatelange"
+
+  [[params.socialIcons]]
+  name = "RsS"
+  url = "index.xml"
+
+  [params.editPost]
+  URL = "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+  Text = "Suggest Changes"
+  appendFilePath = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true
