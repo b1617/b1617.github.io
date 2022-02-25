@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog</title>
+    <title>b1617</title>
     <link>https://b1617.github.io/</link>
-    <description>Recent content on Blog</description>
-    <image>
-      <url>https://b1617.github.io/papermod-cover.png</url>
-      <link>https://b1617.github.io/papermod-cover.png</link>
-    </image>
+    <description>Recent content on b1617</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://b1617.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Feb 2022 19:30:03 +0000</lastBuildDate><atom:link href="https://b1617.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 1st post</title>
-      <link>https://b1617.github.io/posts/test/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title>Coder votre premier smart contract avec Solidity 🇫🇷</title>
+      <link>https://b1617.github.io/posts/smart-contract/</link>
+      <pubDate>Thu, 24 Feb 2022 19:30:03 +0000</pubDate>
       
-      <guid>https://b1617.github.io/posts/test/</guid>
-      <description>Desc Text.</description>
+      <guid>https://b1617.github.io/posts/smart-contract/</guid>
+      <description>Preréquis : Node et NPM ⚠️</description>
     </item>
     
   </channel>
