@@ -16,13 +16,17 @@ Set on android applications to built during my studies at the university to lear
 
 > [Moyenne Bac - 2021 (Bac students)](https://play.google.com/store/apps/details?id=com.dhinesh.moyennebac)
 
+## Costs
+
+- Licence : 25€
+
 ## Stats
 
 | Application      | Users | MRR |
 | :--------------- | :---: | :-: |
-| Moyenne Etudiant | ~9000 | $30 |
-| Moyenne Lyceen   | ~1800 | $5  |
-| Moyenne Bac 2021 | ~350  | $0  |
+| Moyenne Etudiant | ~9000 | 30€ |
+| Moyenne Lyceen   | ~1800 | 5€  |
+| Moyenne Bac 2021 | ~350  | 0€  |
 
 ## Technologies
 

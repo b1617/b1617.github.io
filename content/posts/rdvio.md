@@ -8,6 +8,11 @@ description: "Build a micro-saas to manage appointments for small businesses"
 ShowPostNavLinks: false
 ---
 
+## Costs
+
+- Domain name : 20€
+- Hosting : 5€
+
 ## Technologies
 
 - React (NextJs & Create React App))

@@ -8,6 +8,11 @@ description: "A micro-saas to write twitter threads"
 ShowPostNavLinks: false
 ---
 
+## Costs
+
+- Domain name : 1€
+- Hosting : 2€
+
 ## Technologies
 
 - React
