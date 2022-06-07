@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>❌ Failed on b1617</title>
+    <link>https://b1617.github.io/tags/failed/</link>
+    <description>Recent content in ❌ Failed on b1617</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Oct 2020 22:48:33 +0200</lastBuildDate><atom:link href="https://b1617.github.io/tags/failed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rdvio 💅</title>
+      <link>https://b1617.github.io/posts/rdvio/</link>
+      <pubDate>Thu, 15 Oct 2020 22:48:33 +0200</pubDate>
+      
+      <guid>https://b1617.github.io/posts/rdvio/</guid>
+      <description>Build a micro-saas to manage appointments for small businesses</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,9 +1,9 @@
-baseURL : 'https://b1617.github.io/'
-title : "b1617"
-languageCode : 'en-us'
-paginate : 5
-theme : "PaperMod"
-publishDir : "docs"
+baseURL: "https://b1617.github.io/"
+title: "b1617"
+languageCode: "en-us"
+paginate: 5
+theme: "PaperMod"
+publishDir: "docs"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -14,91 +14,90 @@ enableEmoji: true
 # googleAnalytics: UA-123-45
 
 minify:
-    disableXML: true
-    # minifyOutput: true
+  disableXML: true
+  # minifyOutput: true
 
 languages:
-    en:
-        languageName: ":en:"
-        weight: 1
-        menu:
-            main:
-                - name: Tags
-                  url: tags/
-                  weight: 1
+  en:
+    languageName: ":en:"
+    weight: 1
+    menu:
+      main:
+        - name: Tags
+          url: tags/
+          weight: 1
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Blog" 
-    author: Dhinesh Sattia
-    defaultTheme: auto
-    # disableThemeToggle: true
-    ShowShareButtons: true
-    ShowReadingTime: true
-    # disableSpecial1stPost: true
-    displayFullLangName: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
-    ShowToc: true
-    # comments: false
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Blog"
+  author: Dhinesh Sattia
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  # comments: false
 
-    homeInfoParams:
-        Title: "Hi ✌🏽"
-        Content: Welcome to my blog, <br/> I am a Software engineer and I write articles about web technology 🖱️  <br/> 
+  homeInfoParams:
+    Title: "Hi 🇫🇷✌🏽"
+    Content: Welcome to my blog, <br/> I am a Software engineer & an Indie hacker 💡 <br/>
 
-    socialIcons:
-        - name: github
-          url: "https://github.com/b1617"
-        - name: stackoverflow
-          url: "https://stackoverflow.com/users/9493083/b1617"
-        - name: twitter
-          url: "https://twitter.com/0xb1617"
+  socialIcons:
+    - name: github
+      url: "https://github.com/b1617"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/9493083/b1617"
+    - name: twitter
+      url: "https://twitter.com/0xb1617"
 
+  # label:
+  #     text: "Home"
+  #     icon: icon.png
+  #     iconHeight: 35
 
-    # label:
-    #     text: "Home"
-    #     icon: icon.png
-    #     iconHeight: 35
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "XYZabc"
 
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
+  # assets:
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
 
-    # assets:
-    #     favicon: "<link / abs url>"
-    #     favicon16x16: "<link / abs url>"
-    #     favicon32x32: "<link / abs url>"
-    #     apple_touch_icon: "<link / abs url>"
-    #     safari_pinned_tab: "<link / abs url>"
+  # cover:
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
 
-    # cover:
-    #     hidden: true # hide everywhere but not in structured data
-    #     hiddenInList: true # hide on list pages and home
-    #     hiddenInSingle: true # hide on single page
-
-    # fuseOpts:
-    #     isCaseSensitive: false
-    #     shouldSort: true
-    #     location: 0
-    #     distance: 1000
-    #     threshold: 0.4
-    #     minMatchCharLength: 0
-    #     keys: ["title", "permalink", "summary", "content"]
+  # fuseOpts:
+  #     isCaseSensitive: false
+  #     shouldSort: true
+  #     location: 0
+  #     distance: 1000
+  #     threshold: 0.4
+  #     minMatchCharLength: 0
+  #     keys: ["title", "permalink", "summary", "content"]
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
+  goldmark:
+    renderer:
+      unsafe: true
 #     highlight:
 #         # anchorLineNos: true
 #         codeFences: true
@@ -108,25 +107,25 @@ markup:
 #         style: monokai
 
 privacy:
-    vimeo:
-        disabled: false
-        simple: true
+  vimeo:
+    disabled: false
+    simple: true
 
-    twitter:
-        disabled: false
-        enableDNT: true
-        simple: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
 
-    instagram:
-        disabled: false
-        simple: true
+  instagram:
+    disabled: false
+    simple: true
 
-    youtube:
-        disabled: false
-        privacyEnhanced: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
 
 services:
-    instagram:
-        disableInlineCSS: true
-    twitter:
-        disableInlineCSS: true
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
