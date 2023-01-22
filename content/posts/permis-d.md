@@ -1,16 +1,16 @@
 ---
-title: "Permis C 🚚"
-date: 2023-01-01T18:00:00+02:00
+title: "Permis D 🚌"
+date: 2023-01-22T18:00:00+02:00
 draft: false
 tags: ["✅ Succeed"]
 author: "b1617"
-description: "Android application to revise permis C"
+description: "Android application to revise permis D"
 ShowPostNavLinks: false
 ---
 
 **Privacy Policy**
 
-b1617 built the Permis C app as a Free app. This SERVICE is provided by b1617 at no cost and is intended for use as is.
+b1617 built the Permis D app as a Free app. This SERVICE is provided by b1617 at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
