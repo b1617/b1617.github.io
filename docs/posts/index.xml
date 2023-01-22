@@ -6,7 +6,25 @@
     <description>Recent content in Posts on b1617</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Mar 2022 02:58:33 +0200</lastBuildDate><atom:link href="https://b1617.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 18:00:00 +0200</lastBuildDate><atom:link href="https://b1617.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Permis D 🚌</title>
+      <link>https://b1617.github.io/posts/permis-d/</link>
+      <pubDate>Sun, 22 Jan 2023 18:00:00 +0200</pubDate>
+      
+      <guid>https://b1617.github.io/posts/permis-d/</guid>
+      <description>Android application to revise permis D</description>
+    </item>
+    
+    <item>
+      <title>Permis C 🚚</title>
+      <link>https://b1617.github.io/posts/permis-c/</link>
+      <pubDate>Sun, 01 Jan 2023 18:00:00 +0200</pubDate>
+      
+      <guid>https://b1617.github.io/posts/permis-c/</guid>
+      <description>Android application to revise permis C</description>
+    </item>
+    
     <item>
       <title>Typethread 🐦</title>
       <link>https://b1617.github.io/posts/typethread/</link>
@@ -32,18 +50,6 @@
       
       <guid>https://b1617.github.io/posts/moyenne/</guid>
       <description>Android applications to calculates average marks at school</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://b1617.github.io/posts/permis-c/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://b1617.github.io/posts/permis-c/</guid>
-      <description>Privacy Policy
-b1617 built the Permis C app as a Free app. This SERVICE is provided by b1617 at no cost and is intended for use as is.
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.</description>
     </item>
     
   </channel>
