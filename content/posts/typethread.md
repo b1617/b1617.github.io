@@ -1,9 +1,9 @@
 ---
-title: "Typethread 🐦"
+title: "Typebird 🐦"
 date: 2022-03-20T02:58:33+02:00
 draft: false
 author: "b1617"
-tags: ["🚧 Progress"]
+tags: ["❌ failed"]
 description: "A micro-saas to write twitter threads"
 ShowPostNavLinks: false
 ---
