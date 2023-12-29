@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>🚧 Progress on b1617</title>
+    <title>🚧 progress on b1617</title>
     <link>https://b1617.github.io/tags/progress/</link>
-    <description>Recent content in 🚧 Progress on b1617</description>
+    <description>Recent content in 🚧 progress on b1617</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Mar 2022 02:58:33 +0200</lastBuildDate><atom:link href="https://b1617.github.io/tags/progress/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Dec 2023 12:00:33 +0200</lastBuildDate><atom:link href="https://b1617.github.io/tags/progress/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Typethread 🐦</title>
-      <link>https://b1617.github.io/posts/typethread/</link>
-      <pubDate>Sun, 20 Mar 2022 02:58:33 +0200</pubDate>
+      <title>Slidephotos 📷</title>
+      <link>https://b1617.github.io/posts/slidephotos/</link>
+      <pubDate>Fri, 29 Dec 2023 12:00:33 +0200</pubDate>
       
-      <guid>https://b1617.github.io/posts/typethread/</guid>
-      <description>A micro-saas to write twitter threads</description>
+      <guid>https://b1617.github.io/posts/slidephotos/</guid>
+      <description>Privacy Policy
+b1617 built the Slidephotos app as a Free app. This SERVICE is provided by b1617 at no cost and is intended for use as is.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.</description>
     </item>
     
   </channel>
