@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Policy on b1617</title>
-    <link>http://localhost:1313/tags/policy/</link>
+    <link>https://b1617.github.io/tags/policy/</link>
     <description>Recent content in Policy on b1617</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Mar 2024 18:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/policy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Mar 2024 18:00:00 +0200</lastBuildDate><atom:link href="https://b1617.github.io/tags/policy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy - Moyenne Etudiant</title>
-      <link>http://localhost:1313/pages/policy-moyenne-etudiant/</link>
+      <link>https://b1617.github.io/policy-moyenne-etudiant/</link>
       <pubDate>Sun, 31 Mar 2024 18:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/pages/policy-moyenne-etudiant/</guid>
+      <guid>https://b1617.github.io/policy-moyenne-etudiant/</guid>
       <description>Privacy Policy for Moyenne Etudiant Android Application</description>
     </item>
     

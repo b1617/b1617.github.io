@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🚧 Progress on b1617</title>
-    <link>http://localhost:1313/tags/-progress/</link>
+    <link>https://b1617.github.io/tags/-progress/</link>
     <description>Recent content in 🚧 Progress on b1617</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Dec 2023 12:00:33 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/-progress/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Dec 2023 12:00:33 +0200</lastBuildDate><atom:link href="https://b1617.github.io/tags/-progress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slidephotos 📷</title>
-      <link>http://localhost:1313/posts/slidephotos/</link>
+      <link>https://b1617.github.io/posts/slidephotos/</link>
       <pubDate>Fri, 29 Dec 2023 12:00:33 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/slidephotos/</guid>
+      <guid>https://b1617.github.io/posts/slidephotos/</guid>
       <description>Purpose
 Our app is designed to simplify and accelerate the process of creating visually engaging presentations by allowing users to bulk add images from a Google Drive folder directly into a Google Slides presentation.
 Whether you’re working on a project, a portfolio, or any presentation that requires numerous images, this tool saves you valuable time by automating the tedious task of inserting each image individually. With an easy-to-use interface, it offers a seamless integration with Google Drive, enabling you to select a folder containing images and insert them into your slides with just a few clicks.</description>

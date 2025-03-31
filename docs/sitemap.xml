@@ -2,40 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/-progress/</loc>
+    <loc>https://b1617.github.io/</loc>
+    <lastmod>2024-03-31T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://b1617.github.io/tags/policy/</loc>
+    <lastmod>2024-03-31T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://b1617.github.io/policy-moyenne-etudiant/</loc>
+    <lastmod>2024-03-31T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://b1617.github.io/tags/</loc>
+    <lastmod>2024-03-31T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://b1617.github.io/tags/-progress/</loc>
     <lastmod>2023-12-29T12:00:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://b1617.github.io/posts/</loc>
     <lastmod>2023-12-29T12:00:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://b1617.github.io/posts/slidephotos/</loc>
     <lastmod>2023-12-29T12:00:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/slidephotos/</loc>
-    <lastmod>2023-12-29T12:00:33+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-12-29T12:00:33+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/-succeed/</loc>
+    <loc>https://b1617.github.io/tags/-succeed/</loc>
     <lastmod>2023-01-22T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/permis-d/</loc>
+    <loc>https://b1617.github.io/posts/permis-d/</loc>
     <lastmod>2023-01-22T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/permis-c/</loc>
+    <loc>https://b1617.github.io/posts/permis-c/</loc>
     <lastmod>2023-01-01T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/-failed/</loc>
+    <loc>https://b1617.github.io/tags/-failed/</loc>
     <lastmod>2022-03-20T02:58:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/typethread/</loc>
+    <loc>https://b1617.github.io/posts/typethread/</loc>
     <lastmod>2022-03-20T02:58:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/rdvio/</loc>
+    <loc>https://b1617.github.io/posts/rdvio/</loc>
     <lastmod>2020-10-15T22:48:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/moyenne/</loc>
+    <loc>https://b1617.github.io/posts/moyenne/</loc>
     <lastmod>2019-02-19T08:20:32+02:00</lastmod>
+  </url><url>
+    <loc>https://b1617.github.io/pages/</loc>
   </url>
 </urlset>
