@@ -31,3 +31,7 @@ Set on android applications to built during my studies at the university to lear
 ## Technologies
 
 - Java
+
+## Privacy Policies
+
+- [Privacy Policy - Moyenne Etudiant](/policy-moyenne-etudiant/)

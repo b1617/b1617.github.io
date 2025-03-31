@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://b1617.github.io/</loc>
+    <loc>http://localhost:1313/tags/-progress/</loc>
     <lastmod>2023-12-29T12:00:33+02:00</lastmod>
   </url><url>
-    <loc>https://b1617.github.io/posts/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-12-29T12:00:33+02:00</lastmod>
   </url><url>
-    <loc>https://b1617.github.io/posts/slidephotos/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-12-29T12:00:33+02:00</lastmod>
   </url><url>
-    <loc>https://b1617.github.io/tags/</loc>
+    <loc>http://localhost:1313/posts/slidephotos/</loc>
     <lastmod>2023-12-29T12:00:33+02:00</lastmod>
   </url><url>
-    <loc>https://b1617.github.io/tags/progress/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-12-29T12:00:33+02:00</lastmod>
   </url><url>
-    <loc>https://b1617.github.io/posts/permis-d/</loc>
+    <loc>http://localhost:1313/tags/-succeed/</loc>
     <lastmod>2023-01-22T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://b1617.github.io/tags/succeed/</loc>
+    <loc>http://localhost:1313/posts/permis-d/</loc>
     <lastmod>2023-01-22T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://b1617.github.io/posts/permis-c/</loc>
+    <loc>http://localhost:1313/posts/permis-c/</loc>
     <lastmod>2023-01-01T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://b1617.github.io/posts/typethread/</loc>
+    <loc>http://localhost:1313/tags/-failed/</loc>
     <lastmod>2022-03-20T02:58:33+02:00</lastmod>
   </url><url>
-    <loc>https://b1617.github.io/tags/failed/</loc>
+    <loc>http://localhost:1313/posts/typethread/</loc>
     <lastmod>2022-03-20T02:58:33+02:00</lastmod>
   </url><url>
-    <loc>https://b1617.github.io/posts/rdvio/</loc>
+    <loc>http://localhost:1313/posts/rdvio/</loc>
     <lastmod>2020-10-15T22:48:33+02:00</lastmod>
   </url><url>
-    <loc>https://b1617.github.io/posts/moyenne/</loc>
+    <loc>http://localhost:1313/posts/moyenne/</loc>
     <lastmod>2019-02-19T08:20:32+02:00</lastmod>
   </url>
 </urlset>
